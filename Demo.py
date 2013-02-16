@@ -11,7 +11,8 @@ from AnyGUI.qtGUI import *      #QtPy GUI
 
 Argumented evironment change
 -------------------------
-Environment will in
+xGUI(Environment = "x")
+Environment x will in
     wx    : wxPython            
     fltk  : Fast Light Toolkit  
     gtk   : GTK Py              

@@ -11,7 +11,8 @@ Package in AnyGUI
 
 Argumented evironment change
 -------------------------
-Environment will in
+xGUI(Environment = "x")
+Environment x will in
 
 * wx    : wxPython            
 * fltk  : Fast Light Toolkit  
